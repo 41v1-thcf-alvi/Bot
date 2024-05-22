@@ -1,12 +1,12 @@
 {
-  "author": "Nayan",
+  "author": "Alvi Hassan Adnan",
   "version": "1.5.7",
   "autoRestart": true,
   "developermode": false,
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "ALVI-BOT",
   "PREFIX": "/",
   "OPERATOR": [
     "100000277806109",
@@ -20,7 +20,7 @@
     "",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100000277806109"], 
   "APPROVED": [],
   "disabledcmds": [
   ],
